@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Master of Electrical Engineering graduate (University of Melbourne), specialising in **Electronics and Embedded Systems** with a strong foundation in **Electrical Systems**.
+Masters of Electrical Engineering graduate (University of Melbourne), specialising in **Electronics and Embedded Systems** with a strong foundation in **Electrical Systems**.
 
 I like turning real-world signals into insight — building **IoT monitoring and fault detection systems** for legacy machines, and experimenting with **TinyML, time-series models, and embedded hardware**.
 
